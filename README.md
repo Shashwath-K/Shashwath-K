@@ -82,7 +82,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Shashwath-K&show_icons=true&theme=radical&hide_border=true&border_radius=15&count_private=true&include_all_commits=true&custom_title=🚀%20Code%20Performance%20Analytics" alt="GitHub Stats" width="49%" />
 
 <!-- ✅ Replaced GitHub Streak (Heroku-hosted official mirror) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashwath-K&theme=radical&hide_border=true&border_radius=15&fire=FDD835&ring=5C6BC0&dates=ffffff&background=000000" alt="GitHub Streak" width="49%" />
+<br/><br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Shashwath-K&theme=dark&hide_border=false)
 
 <br/><br/>
 
