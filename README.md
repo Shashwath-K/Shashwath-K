@@ -1,6 +1,6 @@
 <!-- futuristic, minimal readme with sleek vibes -->
 
-<h1 align="center">🚀 Shashwath Kukkunoor</h1>
+<h1 align="center">Shashwath Kukkunoor</h1>
 <p align="center">
   🌐 Web & Mobile Applications Developer | 👨‍💻 Problem Solver | ☕ Coffee-Fueled Creator
 </p>
