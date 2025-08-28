@@ -74,21 +74,29 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🧠 GitHub Intelligence Hub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shashwath-K&show_icons=true&theme=radical&hide_border=true&border_radius=15&count_private=true&include_all_commits=true&custom_title=🚀%20Code%20Performance%20Analytics" alt="GitHub Stats" width="49%" />
+
+<img src="https://streak-stats.demolab.com?user=Shashwath-K&theme=radical&hide_border=true&border_radius=15&fire=FDD835&ring=5C6BC0&dates=ffffff&background=000000" alt="GitHub Streak" width="49%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwath-K&layout=compact&theme=radical&hide_border=true&border_radius=15&title_color=FDD835&langs_count=8" alt="Top Languages Used" width="60%" />
+
+</div>
+
+---
+
+## 🛰️ Traffic Signal
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashwath-K&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=Shashwath-K&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwath-K&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  <img src="https://visitcount.itsvg.in/api?id=Shashwath-K&label=Visitors&color=12&icon=5&pretty=true" alt="Visitor Count Badge"/>
 </p>
 
 ---
 
-## 🌌 Visitor Count
-[![](https://visitcount.itsvg.in/api?id=Shashwath-K&icon=2&color=6)](https://visitcount.itsvg.in)
+<!-- 🧬 Designed with precision & future-proofed by ChatGPT 🤖 -->
 
----
-
-<!-- Powered with futuristic design by ChatGPT and GPRM ✨ -->
