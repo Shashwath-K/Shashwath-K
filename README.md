@@ -74,35 +74,33 @@
 
 ---
 
-##  🛰️ GitHub Command Center
+## 🧠 GitHub Intelligence Hub
 
-<div align="center" style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center;">
+<div align="center">
 
-<!-- 1. Self-hosted GitHub Stats (via Vercel example) -->
-<img
-  src="https://your-stats-deployment.vercel.app/api?username=Shashwath-K&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
-  alt="GitHub Stats"
-  width="300" height="170"
-/>
+<!-- ✅ GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Shashwath-K&show_icons=true&theme=radical&hide_border=true&border_radius=15&count_private=true&include_all_commits=true&custom_title=🚀%20Code%20Performance%20Analytics" alt="GitHub Stats" width="49%" />
 
-<!-- 2. Self-hosted Streak Stats -->
-<img
-  src="https://your-streak-deployment.vercel.app/?user=Shashwath-K&theme=radical&border=false&hide_title=true"
-  alt="GitHub Streak"
-  width="300" height="170"
-/>
+<!-- ✅ Replaced GitHub Streak (Heroku-hosted official mirror) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashwath-K&theme=radical&hide_border=true&border_radius=15&fire=FDD835&ring=5C6BC0&dates=ffffff&background=000000" alt="GitHub Streak" width="49%" />
 
-</div>
+<br/><br/>
 
-<div align="center" style="margin-top: 1rem;">
-  <!-- 3. Visitor Count using glitch.me badge -->
-  <img
-    src="https://profile-counter.glitch.me/Shashwath-K/count.svg"
-    alt="Visitor Count"
-    width="300" height="80"
-  />
+<!-- ✅ Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwath-K&layout=compact&theme=radical&hide_border=true&border_radius=15&title_color=FDD835&langs_count=8" alt="Top Languages Used" width="60%" />
+
 </div>
 
 ---
 
-<!--  Future-engineered by ChatGPT 🤖 -->
+## 🛰️ Traffic Signal
+
+<p align="center">
+  <!-- ✅ Alternative Visitor Count (glitch.me) -->
+  <img src="https://profile-counter.glitch.me/Shashwath-K/count.svg" alt="Visitor Count" width="150"/>
+</p>
+
+---
+
+<!-- 🧬 Designed with precision & future-proofed by ChatGPT 🤖 -->
+
