@@ -7,7 +7,7 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 🎓 **B.E. in Computer Science & Engineering** from KVGCE  
 🧠 I specialize in **building efficient, scalable web & mobile apps** that solve real-world problems  
@@ -19,7 +19,7 @@
 
 ---
 
-## 🔗 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashwath-kukkunoor-2b4277225/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shashwath_kukku)
@@ -27,7 +27,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 > Full-stack expertise with a passion for building seamless systems across platforms.
 
@@ -74,14 +74,13 @@
 
 ---
 
-## 🧠 GitHub Intelligence Hub
+##  GitHub Intelligence Hub
 
 <div align="center">
 
 <!-- ✅ GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=Shashwath-K&show_icons=true&theme=radical&hide_border=true&border_radius=15&count_private=true&include_all_commits=true&custom_title=🚀%20Code%20Performance%20Analytics" alt="GitHub Stats" width="49%" />
 
-<!-- ✅ Replaced GitHub Streak (Heroku-hosted official mirror) -->
 <br/><br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Shashwath-K&theme=dark&hide_border=false)
 
@@ -94,12 +93,11 @@
 
 ---
 
-## 🛰️ Traffic Signal
+## Traffic Signal
 
-<p align="center">
-  <!-- ✅ Alternative Visitor Count (glitch.me) -->
+<!--p align="center">
   <img src="https://profile-counter.glitch.me/Shashwath-K/count.svg" alt="Visitor Count" width="150"/>
-</p>
+</p-->
 
 ---
 
