@@ -95,7 +95,20 @@
 
 ## Traffic Signal
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Shashwath-K)
+<div align="center">
+  <div style="
+    display: inline-block;
+    padding: 20px;
+    border-radius: 12px;
+    border: 1px solid #00FFFF33;
+    background: linear-gradient(135deg, #0f172a, #1e293b);
+    box-shadow: 0 4px 20px rgba(0, 255, 255, 0.1);
+  ">
+    <h3 style="color: #38bdf8; margin-bottom: 10px;">👋 Thanks for Visiting!</h3>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Shashwath-K" alt="Visitor Badge" />
+  </div>
+</div>
+
 ---
 
 <!-- 🧬 Designed with precision & future-proofed by ChatGPT 🤖 -->
