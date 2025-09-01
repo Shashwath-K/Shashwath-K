@@ -95,10 +95,7 @@
 
 ## Traffic Signal
 
-<!--p align="center">
-  <img src="https://profile-counter.glitch.me/Shashwath-K/count.svg" alt="Visitor Count" width="150"/>
-</p-->
-
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Shashwath-K)
 ---
 
 <!-- 🧬 Designed with precision & future-proofed by ChatGPT 🤖 -->
