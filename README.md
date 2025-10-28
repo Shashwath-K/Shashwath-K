@@ -85,11 +85,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Shashwath-K&theme=dark&hide_border=false)
 
 <br/><br/>
-
-
-
-
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwath-K&layout=donut&theme=merko&hide_border=true&border_radius=15&title_color=FF5722&langs_count=10&exclude_repo=repo1,repo2" alt="Top Languages Used" width="60%" />
 </div>
 
 ---
