@@ -9,11 +9,11 @@
 
 ##  About Me
 
-🎓 **B.E. in Computer Science & Engineering** from KVGCE  
-🧠 I specialize in **building efficient, scalable web & mobile apps** that solve real-world problems  
-🏆 Award-winning college-level project developer  
-⚙️ Passionate about **automation, clean UI/UX, and intelligent systems**  
-☕ I code best when caffeinated
+- **B.E. Graduate in Computer Science & Engineering** from KVGCE
+-  I specialize in **building efficient, scalable web & mobile apps** that solve real-world problems
+-  Award-winning college-level project developer
+-  Passionate about **Open-source, automation, clean UI/UX, and intelligent systems**  
+-  I code best when caffeinated
 
 > “Driven by code. Powered by purpose.”
 
