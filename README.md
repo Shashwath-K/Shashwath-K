@@ -99,7 +99,7 @@
   <img src="https://img.shields.io/badge/forks-24-007EC6?labelColor=555555&style=flat-square" alt="Forks" />
   <img src="https://img.shields.io/badge/watchers-70-007EC6?labelColor=555555&style=flat-square" alt="Watchers" />
   <img src="https://img.shields.io/badge/contributors-24-007EC6?labelColor=555555&style=flat-square" alt="Contributors" />
-  <img src="https://img.shields.io/badge/last_commit-April_2026-007EC6?labelColor=555555&style=flat-square" alt="Last Commit" />
+  <img src="https://img.shields.io/badge/last_commit-May_2026-007EC6?labelColor=555555&style=flat-square" alt="Last Commit" />
   <img src="https://img.shields.io/badge/license-CC0--1.0-007EC6?labelColor=555555&style=flat-square" alt="License" />
   <img src="https://img.shields.io/badge/issues-26_closed-007EC6?labelColor=555555&style=flat-square" alt="Issues" />
   <img src="https://img.shields.io/badge/pull_requests-57_closed-007EC6?labelColor=555555&style=flat-square" alt="Pull Requests" />
